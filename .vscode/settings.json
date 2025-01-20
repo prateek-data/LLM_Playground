@@ -1,0 +1,9 @@
+{
+    "pylint.enabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "pylint.args": [
+        "--max-line-length=50",
+        "--disable=invalid-name"
+    ]
+}
